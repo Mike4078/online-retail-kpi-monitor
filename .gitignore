@@ -1,0 +1,8 @@
+data/retail.db
+exports/
+__pycache__/
+.ipynb_checkpoints/
+*.pbix.bak
+.venv/
+.venv/
+.DS_Store

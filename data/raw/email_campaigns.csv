@@ -1,0 +1,13 @@
+campaign_id,campaign_name,send_date,segment,theme
+CMP-E01,New Year Deals,2025-01-08,all_opted_in,discount
+CMP-E02,Valentine Gift Guide,2025-02-06,all_opted_in,gift_guide
+CMP-E03,Spring Beauty Picks,2025-03-20,beauty_buyers,category
+CMP-E04,Summer Sports Sale,2025-06-12,all_opted_in,discount
+CMP-E05,Back to School,2025-08-21,all_opted_in,category
+CMP-E06,Autumn Home Refresh,2025-10-02,home_buyers,category
+CMP-E07,Black Friday Early Access,2025-11-24,all_opted_in,discount
+CMP-E08,Christmas Gift Guide,2025-12-04,all_opted_in,gift_guide
+CMP-E09,Winter Clearance,2026-01-15,all_opted_in,discount
+CMP-E10,Spring Mega Sale,2026-04-09,all_opted_in,discount
+CMP-E11,We Miss You - Winback,2026-05-14,lapsed_customers,winback
+CMP-E12,Summer Essentials,2026-06-11,all_opted_in,category
